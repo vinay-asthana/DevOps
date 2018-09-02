@@ -1,0 +1,3 @@
+Just
+the
+first file - created after creating repository
